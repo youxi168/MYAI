@@ -1,6 +1,6 @@
 name = "cf-ai-chat"
 main = "src/worker.js"
-compatibility_date = "2026-6-6"
+compatibility_date = "2025-08-25"
 
 [ai]
 binding = "AI"
